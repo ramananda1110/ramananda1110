@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am a mobile app developer with the last 6 years of experience Specialising in android native and flutter app development. I'm currently working at Paperfly Private Ltd. as a Manager of the Mobile App Team.
+#### I am a mobile app developer with the last 7 years of experience Specializing in Android/iOs native and also flutter app development. I'm currently working at Paperfly Private Ltd. as a Manager of the Mobile App Team.
 
 
 
