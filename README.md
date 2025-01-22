@@ -1,11 +1,18 @@
-### Hi there 👋, This is Ramananda Sarkar
+## 👋 Hi there, This is Ramananda Sarkar
 
-###🚀 **Senior Technical Lead | Mobile Application Developer
-###📱 **12+ years of experience in Android app development and team leadership**
+#### 🚀 Senior Technical Lead | Mobile Application Developer | Backend Developer
+📱 8+ years of experience in Android & iOS app development, backend development with PHP, and team leadership.
+***
 
-I am a mobile app developer with the last 7 years of experience Specializing in Android/iOS native and also flutter app development.
+## 🌟 Skills and Expertise
 
-Skills: Java / Kotlin / Swift / Dart / Flutter / Android / PHP/ Laravel
+- **Programming Languages:** Kotlin, Java, Swift, Dart, PHP, XML.
+- **Frameworks & Libraries:** Jetpack Compose, MVVM, RxJava, Dagger, Hilt, Room, Retrofit, SwiftUI, Alamofire, Combine, Laravel, Eloquent ORM, Flutter, Dart, Provider, Bloc, GetX, Firebase, Dio, http.
+- **Development Tools:** Android Studio, Xcode, Visual Studio Code, Firebase Console, Git, GitHub, GitLab, Jenkins, Azure DevOps, Postman, PhpStorm, Composer.
+- **Architectures:** MVC, MVP, MVVM, Clean Architecture, VIPER, Singleton, Repository Pattern, Dependency Injection (DI), RESTful API, **Provider**, **GetX**, **BLoC**.
+- **Specializations:** CI/CD, Payment Gateways, App Security, Firebase, Mobile App Performance Optimization, Push Notifications, App Store Optimization (ASO), Cross-Platform Development (Flutter), RESTful API Integration, GraphQL, User Authentication & Authorization, Cloud Services & Integration, App Analytics & Monitoring, Custom UI/UX Design, Agile Development & Scrum, Test-Driven Development (TDD).
+  
+
 
 - 🔭 I’m currently working on Development Design Consultants Ltd. (DDC)  
 - 🌱 I’m currently learning PHP with Laravel 
