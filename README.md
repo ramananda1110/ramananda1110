@@ -1,9 +1,8 @@
 ### Hi there 👋, This is Ramananda Sarkar
 #### Mobile Application Developer
-![Mobile Application Developer](https://i0.wp.com/nlindia.com/wp-content/uploads/2021/06/mobile-app-banner.jpg?resize=802%2C201&ssl=1)
 
-🚀 Senior Technical Lead | Android Developer
-📱 12+ years of experience in Android app development and team leadership
+🚀 **Senior Technical Lead | Android Develope**r
+📱 **12+ years of experience in Android app development and team leadership**
 
 I am a mobile app developer with the last 7 years of experience Specializing in Android/iOS native and also flutter app development.
 
