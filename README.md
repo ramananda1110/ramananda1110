@@ -11,12 +11,42 @@
 - **Development Tools:** Android Studio, Xcode, Visual Studio Code, Firebase Console, Git, GitHub, GitLab, Jenkins, Azure DevOps, Postman, PhpStorm, Composer.
 - **Architectures:** MVC, MVP, MVVM, Clean Architecture, VIPER, Singleton, Repository Pattern, Dependency Injection (DI), RESTful API, **Provider**, **GetX**, **BLoC**.
 - **Specializations:** CI/CD, Payment Gateways, App Security, Firebase, Mobile App Performance Optimization, Push Notifications, App Store Optimization (ASO), Cross-Platform Development (Flutter), RESTful API Integration, GraphQL, User Authentication & Authorization, Cloud Services & Integration, App Analytics & Monitoring, Custom UI/UX Design, Agile Development & Scrum, Test-Driven Development (TDD).
+***
+
+## 🛠️ **Key Projects**
+
+- **PAPERFLY WINGS: Efficient Order Pickup Management for Merchants**  
+  Paperfly Pickup App enables pickup managers and officers to manage their daily assignments easily. Pickup managers can assign orders to officers, track order status, and monitor pending orders in the "Pickups for Today" section.  
+  [PAPERFLY WINGS on Google Play](https://play.google.com/store/apps/details?id=com.paperflywings.user.paperflyv0)
   
+- **Daktarbhai: Digital Health Service Solution for Bangladesh**  
+  [Daktarbhai on Google Play](https://play.google.com/store/apps/details?id=com.hislbd.daktarbhai&hl=en)  
+  [Daktarbhai on the Apple Store](https://apps.apple.com/us/app/daktarbhai/id1349150744?ls=1)
+
+- **Paperfly GO: Nationwide Home Delivery Logistics Solution**  
+  [Paperfly GO on Google Play](https://play.google.com/store/apps/details?id=com.paperflymerchantapp&hl=en)
 
 
-- 🔭 I’m currently working on Development Design Consultants Ltd. (DDC)  
-- 🌱 I’m currently learning PHP with Laravel 
+- **Orko Pro: Connecting Healthcare Seekers & Service Providers for Quality Care**  
+  [Orko Pro on Google Play](https://play.google.com/store/apps/details?id=com.myorko.orkodoctor)
 
+- **Orko All: Access Expert Doctor Consultations Anytime, Anywhere**  
+  [Orko All on Google Play](https://play.google.com/store/apps/details?id=com.orko.all)
+***
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ramananda1110/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ramananda-sarkar-3b7a646b//)  
+## 🎓 **Certifications & Education**
+
+- **BSc in Computer Science and Engineering**  
+  Bangladesh University of Business and Technology
+  
+- **Mobile Application Development, Android**  
+  Completed Top-Up IT Training under the LICT Project, Employment and Governance, Bangladesh Computer Council (BCC)
+***
+
+🌐 **Let's Connect**
+
+- **GitHub:** [Your GitHub Profile]([https://github.com/yourusername](https://github.com/ramananda1110/))  
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ramananda-sarkar/))  
+- **Medium:** [Your Medium Profile]([https://medium.com/@yourusername](https://ramananda-rs.medium.com/))
+
 
