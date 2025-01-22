@@ -43,12 +43,15 @@
   Completed Top-Up IT Training under the LICT Project, Employment and Governance, Bangladesh Computer Council (BCC)
 ***
 
-🌐 **Let's Connect**
 
-- [GitHub](https://github.com/ramananda1110)  
-- [LinkedIn](https://www.linkedin.com/in/ramananda-sarkar/)  
-- [Medium](https://ramananda-rs.medium.com/)
+🌐 <strong>Let's Connect</strong>
 
+<ul>
+  <li><a href="https://github.com/ramananda1110" target="_blank">GitHub</a></li>
+  <li><a href="https://www.linkedin.com/in/ramananda-sarkar/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://ramananda-rs.medium.com/" target="_blank">Medium</a></li>
+</ul>
 
+***
 
 
