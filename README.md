@@ -45,8 +45,10 @@
 
 🌐 **Let's Connect**
 
-- **GitHub:** [Your GitHub Profile]([https://github.com/yourusername](https://github.com/ramananda1110/))  
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/ramananda-sarkar/))  
-- **Medium:** [Your Medium Profile]([https://medium.com/@yourusername](https://ramananda-rs.medium.com/))
+- [GitHub](https://github.com/ramananda1110)  
+- [LinkedIn](https://www.linkedin.com/in/ramananda-sarkar/)  
+- [Medium](https://ramananda-rs.medium.com/)
+
+
 
 
