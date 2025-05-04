@@ -1,8 +1,12 @@
 ## 👋 Hi there, This is Ramananda Sarkar
 
-#### 🚀 Senior Technical Lead | Mobile Application Developer | Backend Developer
-📱 8+ years of experience in Android & iOS app development, backend development with PHP, and team leadership.
-***
+
+## 👨‍💻 About Me
+
+I’m a passionate **Senior Technical Lead** with over **8 years of experience** in mobile application development (Android & iOS), backend systems (PHP/Laravel), and team leadership. I specialize in building robust, scalable, and user-friendly apps using **Flutter**, **Java/Kotlin**, and **Swift**, along with secure and efficient backend systems.
+
+🌐 **Portfolio**: [ramananda1110.github.io](https://ramananda1110.github.io/)
+
 
 ## 🌟 Skills and Expertise
 
@@ -12,6 +16,7 @@
 - **Architectures:** MVC, MVP, MVVM, Clean Architecture, VIPER, Singleton, Repository Pattern, Dependency Injection (DI), RESTful API, **Provider**, **GetX**, **BLoC**.
 - **Specializations:** CI/CD, Payment Gateways, App Security, Firebase, Mobile App Performance Optimization, Push Notifications, App Store Optimization (ASO), Cross-Platform Development (Flutter), RESTful API Integration, GraphQL, User Authentication & Authorization, Cloud Services & Integration, App Analytics & Monitoring, Custom UI/UX Design, Agile Development & Scrum, Test-Driven Development (TDD).
 ***
+
 
 ## 🛠️ **Key Projects**
 
