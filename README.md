@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate **Senior Technical Lead** with over **8 years of experience** in mobile application development (Android & iOS), backend systems (PHP/Laravel), and team leadership. I specialize in building robust, scalable, and user-friendly apps using **Flutter**, **Java/Kotlin**, and **Swift**, along with secure and efficient backend systems.
+I’m a passionate **Senior Technical Lead** with over **9 years of experience** in mobile application development (Android & iOS), backend systems (PHP/Laravel), and team leadership. I specialize in building robust, scalable, and user-friendly apps using **Flutter**, **Java/Kotlin**, and **Swift**, along with secure and efficient backend systems.
 
 🌐 **Portfolio**: [ramananda1110.github.io](https://ramananda1110.github.io/)
 
